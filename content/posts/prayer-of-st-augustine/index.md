@@ -6,7 +6,7 @@ date: 2024-11-07T06:34:19Z
 
 These are the notes of my attempt to trace the origins of a prayer known to me as the Prayer of St. Augustine. This page will be updated with any further progress.
 
-## Roman Catholic Daily Missal, 1962. Angelus Press
+## Roman Catholic Daily Missal, 1962
 
 My first introduction to this prayer is from the Daily Missal, 1962 edition published by Angelus Press. My copy is copyright 2004, ISBN 978-1-892331-29-8, third printing November 2007.
 
@@ -49,6 +49,18 @@ The prayer appears on page 90 in the section "Prayers After Communion" as such:
 > O God, Who by sin art offended and by penance pacified, mercifully regard the prayers of Thy suppliant people, and turn away the scourges of Thy wrath, which we deserve for our sins. Through Christ our Lord. ℟. Amen.
 
 The prayer appears only in English with no additional information.
+
+## St. Andrew Daily Missal, 1953
+
+Searching the internet for the prayer in English turns up surprisingly few results, given the supposed age of the prayer. One site that includes the prayer mentions that it was copied from the Saint Andrew Daily Missal.
+
+Thanks to the Internet Archive, we can find a version of the Missal published in 1953 available for borrowing ([Link](https://archive.org/details/saintandrewdaily0000cath/page/960/mode/2up?view=theater)). The prayer is found on pages 959-960 in a section of prayers for "Thanksgiving After Mass". It appears worded very similar to the previous source, but is prefaced with the note that it was "Made public by order of Pope Urban VII."
+
+![image](images/StAndrewMissal1953.png)
+
+It's unclear yet if the note about [Pope Urban VII](https://www.catholic.com/encyclopedia/pope-urban-vii) is accurate, given that the Pope only reigned for 13 days before his death.
+
+Interestingly, the prayer does not seem to appear in the 1949 edition of [St. Andrew Daily Missal](https://archive.org/details/saintandrewdaily0000domg_p9t2/page/574/mode/2up) (expected around page 575).
 
 <!--
 "Ante oculos tuos, Domine"

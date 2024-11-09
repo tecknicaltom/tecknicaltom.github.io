@@ -91,7 +91,7 @@ Searching the internet for various portions of the prayer, both in English and r
 > ORATIO.
 >
 > Praesta, quaesumus, omnipotens Deus, ut nullis nos permittas perturbationis concuti, quos in Apostolicae confessionis petra solidasti. Per Dominum. R. Amen.
-
+>
 > Imploret, clementissime Domine, nostris opportunam necessitatibus opem devote a nobis prolata meditatio, qua sanctus olim Joannes Chrysostomus, in hac basilica conditus, te cum beatissimis Apostolis Petro et Paulo repraesentavit sic colloquentem: "Circumdate hanc novam Sion et cirumvallate eam: hoc est, custodite, munite, precibus firmante; ut quando irascor in tempore, et orbem terrae concutio, aspiciens sepulcrum vestrum numquam desiturum, et quae libenter propter me geritis stigmata, iram misericordia vincam, et ob hanc te percipiam vestram intercessionem. Etenim quando Sacerdotium et Regnum video lacryimari, statim quasi compatiens ad commiserationem flector, et illius meae vocis remniscor: 'Protegam urbem hanc propter David servum tuum et Aaron sanctum tuum.'" Domine, fiat, fiat. Amen, Amen.  
 >
 > TRANSLATION

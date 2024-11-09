@@ -124,7 +124,7 @@ Searching the internet for various portions of the prayer, both in English and r
 
 According to the site, they are quoting from "The Raccolta - full English edition, 1866".
 
-Also notice that this source ties the prayer to Urban [Pope Urban VIII](https://www.catholic.com/encyclopedia/pope-urban-viii) VIII, which is much more plausible than Urban VII, reigning 21 years.
+Also notice that this source ties the prayer to [Pope Urban VIII](https://www.catholic.com/encyclopedia/pope-urban-viii), which is much more plausible than Urban VII, reigning 21 years.
 
 <!--
 "Ante oculos tuos, Domine"
